@@ -110,3 +110,11 @@ A driver adapter uses a driver port interface, converting a specific technology 
 - **Dependency Management:** In hexagonal architecture, external systems (UI, database, services) do not create dependencies, making it easier to switch to different technologies or systems.
 
 - **Better Testability:** In layered architecture, testing the whole system can be challenging due to dependencies on external systems. However, in hexagonal architecture, the business logic can be isolated and tested independently from these external components.
+
+### Reference Sources
+
+1. [Hexagonal Architecture - GitHub Repository by rbailen](https://github.com/rbailen/Hexagonal-Architecture)
+2. [Modular Architecture Hexagonal Demo Project - GitHub Repository by Alican Akkus](https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project)
+3. [Articles by JM Garrido Paz](https://jmgarridopaz.github.io/content/articles.html)
+4. [Hexagonal Architecture: There Are Always Two Sides to Every Story - Medium Article](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
+
